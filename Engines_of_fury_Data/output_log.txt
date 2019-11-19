@@ -1,0 +1,85 @@
+Initialize engine version: 5.5.4p4 (e92bef0ab5a4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon (TM) HD 8670M (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     2040 MB
+    Driver:   15.201.1101.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Himanshu Patel\Desktop\programs\work\gamedesign\Engines of fury\Engines_of_fury_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Himanshu Patel\Desktop\programs\work\gamedesign\Engines of fury\Engines_of_fury_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Himanshu Patel\Desktop\programs\work\gamedesign\Engines of fury\Engines_of_fury_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Himanshu Patel\Desktop\programs\work\gamedesign\Engines of fury\Engines_of_fury_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Himanshu Patel\Desktop\programs\work\gamedesign\Engines of fury\Engines_of_fury_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Himanshu Patel\Desktop\programs\work\gamedesign\Engines of fury\Engines_of_fury_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Himanshu Patel\Desktop\programs\work\gamedesign\Engines of fury\Engines_of_fury_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Himanshu Patel\Desktop\programs\work\gamedesign\Engines of fury\Engines_of_fury_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Himanshu Patel\Desktop\programs\work\gamedesign\Engines of fury\Engines_of_fury_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Himanshu Patel\Desktop\programs\work\gamedesign\Engines of fury\Engines_of_fury_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Himanshu Patel\Desktop\programs\work\gamedesign\Engines of fury\Engines_of_fury_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Himanshu Patel\Desktop\programs\work\gamedesign\Engines of fury\Engines_of_fury_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.342 seconds
+Platform assembly: C:\Users\Himanshu Patel\Desktop\programs\work\gamedesign\Engines of fury\Engines_of_fury_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Himanshu Patel\Desktop\programs\work\gamedesign\Engines of fury\Engines_of_fury_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.998400 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 277c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.028100 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 536.
+Total: 0.517200 ms (FindLiveObjects: 0.049800 ms CreateObjectMapping: 0.031300 ms MarkObjects: 0.414100 ms  DeleteObjects: 0.021000 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.038500 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 1325.
+Total: 5.030300 ms (FindLiveObjects: 0.117200 ms CreateObjectMapping: 0.087000 ms MarkObjects: 0.532600 ms  DeleteObjects: 4.292300 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.145900 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1327.
+Total: 1.498100 ms (FindLiveObjects: 0.118000 ms CreateObjectMapping: 0.091900 ms MarkObjects: 0.567000 ms  DeleteObjects: 0.720200 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.107500 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1327.
+Total: 1.879200 ms (FindLiveObjects: 0.154400 ms CreateObjectMapping: 0.143200 ms MarkObjects: 0.695100 ms  DeleteObjects: 0.885000 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.681300 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1327.
+Total: 1.295000 ms (FindLiveObjects: 0.133000 ms CreateObjectMapping: 0.081900 ms MarkObjects: 0.480200 ms  DeleteObjects: 0.598800 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.999100 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1327.
+Total: 1.385400 ms (FindLiveObjects: 0.110400 ms CreateObjectMapping: 0.091600 ms MarkObjects: 0.560300 ms  DeleteObjects: 0.621900 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.043600 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1327.
+Total: 1.770700 ms (FindLiveObjects: 0.164400 ms CreateObjectMapping: 0.129300 ms MarkObjects: 0.686300 ms  DeleteObjects: 0.789500 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.791600 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1327.
+Total: 1.510100 ms (FindLiveObjects: 0.171400 ms CreateObjectMapping: 0.095100 ms MarkObjects: 0.568100 ms  DeleteObjects: 0.674400 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.770300 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1327.
+Total: 1.521000 ms (FindLiveObjects: 0.117200 ms CreateObjectMapping: 0.091000 ms MarkObjects: 0.614400 ms  DeleteObjects: 0.697400 ms)
+
