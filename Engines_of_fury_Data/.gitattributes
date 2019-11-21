@@ -1,2 +1,0 @@
-*.resS filter=lfs diff=lfs merge=lfs -text
-*.assest.resS filter=lfs diff=lfs merge=lfs -text
