@@ -1,5 +1,5 @@
 # Engins_of_fury
-A car racing game that has a furious racing experience and will take you through an exciting journey through the old town roads, historic bridges, forest, a breathtaking ride through a river of molten lava a true experience of the road through hell. drive your way through the hell's booby traps, sharp-edged turns and life taking river waiting for you. There are a variety of different automobiles to choose from. all of them are different in structure some realistic, classic 2d low poly, and many more.
+A car racing game that has a furious racing experience and will take you through an exciting journey through the old town roads, historic bridges, forest, a breathtaking ride through a river of molten lava a true experience of the road through hell. Drive your way through the hell's booby traps, sharp-edged turns and life taking river waiting for you. There are a variety of different automobiles to choose from. All of them are different in structure some realistic, classic 2d low poly, and many more.
 
 How to install
 
