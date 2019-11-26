@@ -4,8 +4,8 @@ A car racing game that has a furious racing experience and will take you through
 How to install
 
 1. Click on Clown or download and download every data on your pc.
-2. Download all the files with tag "add large files" in Engines_of_fury_Data individualy.
-3. Save the downloaded files in a same folder "Engines_of_fury/Engines_of_fury_Data".
+2. Download all the files with tag "add large files" in Engines_of_fury_Data on the github site individualy.
+3. Save the downloaded "add large files" files in a same folder "Engines_of_fury/Engines_of_fury_Data" on the local drive.
 4. Replace it with original files.
 5. Click on .exe file with a icon of a car.
 6. Ready to play.
